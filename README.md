@@ -1,5 +1,5 @@
 
-## <a href="gta6landingpage.netlify.app">GTA 6 landing page</a>
+## **[GTA 6 landing page](https://gta6landingpage.netlify.app/)**
 
 <div align="center">
   
